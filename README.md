@@ -70,13 +70,5 @@ Protocol 12.72 - Client 12.72 - Hellgrave Remastered ZnoteAAC + Interactive Map
 ![6](https://user-images.githubusercontent.com/89811188/164987455-1de4e452-b6bf-4e7a-8664-cd96ce0c97fb.png)
 ![7](https://user-images.githubusercontent.com/89811188/164987462-7314fdfa-df98-483b-9aaf-0e90d025b49d.png)
 
-## Access **Hellgrave Mmorpg**
 
-  * Server Up to Date on Forum! On Github is not longer updated!
-  * Download our Server from Official Thread: https://opengamescommunity.com/index.php?resources/hellgrave-rpg-server-12-60.131/
-  
-
-### About **Hellgrave**
-
- * Developped with Otservbr base fork from team Edisondario ( protocol 12.60 )
 
