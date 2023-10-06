@@ -3,14 +3,6 @@
 Welcome to Hellgrave RPG v5.5,
 Here you can report and issue, bug, pull requests for the Hellgrave RPG Server.
 
-[Client v5.5 + Website v5.5 - Click here](https://opengamescommunity.com/index.php?resources/categories/hellgrave-tibia-v5-5.72/)
-
-If you check the last version of Hellgrave RPG Server start checking here: https://hellgrave.com 
-
-Compiled Version Windows/Linux here: https://opengamescommunity.com/index.php?resources/hellgrave-rpg-12-72.751/
-
-See Updates with Pictures here: https://opengamescommunity.com/index.php?resources/hellgrave-rpg-12-72-windows.751/updates
-
 
 # Hellgrave Mmorpg
 
@@ -32,7 +24,6 @@ Update v5.0:
 
 Protocol 12.72 - Client 12.72 - Hellgrave Remastered ZnoteAAC + Interactive Map
 
-[Download From Official Thread](https://opengamescommunity.com/index.php?resources/hellgrave-rpg-12-72.751/)
 
 [Discord Channel](https://discord.gg/QhPbQSAg)
 
